@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+form input{
+  color: darkblue;
+}
+.salir-a{
+   text-decoration:none;
+   color: orange;
+   background: smokewhite;
+   border: 1.2px solid orange;
+   border-radius: 12em;
+   padding: 6px;
+}
+
+form button {
+  color: orange;
+  font-weight: bolder;
+  background: smokewhite;
+  border: 1.2px solid orange;
+  border-radius: 12em;
+  padding: 6px;
+}
